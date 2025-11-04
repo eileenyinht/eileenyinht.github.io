@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Ph.D. candidate in Computer Science** at the [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/), supervised by [Prof. Przemyslaw Musialski](https://people.njit.edu/faculty/przemyslaw.musialski).  
+I am a **Ph.D. candidate in Computer Science** at the [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/), supervised by [Prof. Przemyslaw Musialski](https://web.njit.edu/~przem).  
 My research focuses on **3D reconstruction**, **generative AI**, and **neural surface representation**.  
 In particular, I develop **implicit neural networks** for 3D shape reconstruction and representation, bridging geometry processing and machine learning.
 
