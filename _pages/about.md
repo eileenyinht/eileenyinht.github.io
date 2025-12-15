@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Haotian Yin
+
+**Degree:** Ph.D. Candidate  
+**Department:** Department of Computing Science, New Jersey Institute of Technology  
+**Location:** New Jersey, United States  
+**Email:** [hy9@njit.edu](mailto:hy9@njit.edu)
 
 I am a **Ph.D. candidate in Computer Science** at the [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/), supervised by [Prof. Przemyslaw Musialski](https://web.njit.edu/~przem).  
 My research focuses on **3D reconstruction**, **generative AI**, and **neural surface representation**.  
@@ -21,22 +27,26 @@ and a **B.Eng. in Computer Application** (College of Computer Science).
 
 Publications
 ======
-## Research Highlights
+<!-- ## Research Highlights
 
 **Ph.D. Student — Graphics and Neural Surface Representation**  
-_New Jersey Institute of Technology (NJIT), 09/2021–Present_
+_New Jersey Institute of Technology (NJIT), 09/2021–Present_ -->
+ 
 
 ### [SIGGRAPH Asia 2025]  
-**A Finite Difference Approximation of Second-Order Regularization for Neural-SDFs**  
+**[A Finite Difference Approximation of Second-Order Regularization for Neural-SDFs](https://arxiv.org/abs/2511.08980)**
+<!-- [[PDF]](../files/FD-Regularization.pdf) -->
+<!-- [[arXiv]](https://arxiv.org/abs/2511.08980) -->
+<!-- [[Project]](https://your-project-page.com)   -->
 Developed a lightweight optimization framework replacing computationally expensive second-order derivatives with finite-difference operators, improving model efficiency and numerical stability.  
 Enabled large-scale neural modeling using only first-order gradients — an approach generalizable to AIGC and reinforcement learning systems requiring interpretable and efficient optimization.
 
 ### [Pacific Graphics 2025]  
-**FlatCAD: Fast Curvature Regularization of Neural SDFs for CAD Models**  
+**[FlatCAD: Fast Curvature Regularization of Neural SDFs for CAD Models](https://flatcad.github.io/)**  
 Proposed an off-diagonal loss design that stabilizes model training and doubles convergence speed.  
 Demonstrated the framework’s adaptability across domains — from 3D surface learning to general deep network regularization and AI optimization under limited compute budgets.
 
 ### [ISVC 2025]  
-**Scheduling Curvature-Aware Loss with Annealed Weights**  
+**[Scheduling the Off-Diagonal Weingarten Loss of Neural SDFs for CAD Models](https://arxiv.org/abs/2511.03147)**  
 Designed an adaptive scheduling strategy that dynamically adjusts regularization weights during training to maintain convergence stability.  
 Improved overall model accuracy by **35%**, providing a general mechanism for balanced loss design in large-scale AI and multi-agent learning scenarios.
