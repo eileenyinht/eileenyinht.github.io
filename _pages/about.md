@@ -50,3 +50,8 @@ Demonstrated the framework’s adaptability across domains — from 3D surface l
 **[Scheduling the Off-Diagonal Weingarten Loss of Neural SDFs for CAD Models](https://arxiv.org/abs/2511.03147)**  
 Designed an adaptive scheduling strategy that dynamically adjusts regularization weights during training to maintain convergence stability.  
 Improved overall model accuracy by **35%**, providing a general mechanism for balanced loss design in large-scale AI and multi-agent learning scenarios.
+
+### [ICMLA 2024]  
+**[Shrinking: Reconstruction of Parameterized Surfaces from Signed Distance Fields](https://arxiv.org/abs/2410.03123)**  
+We propose a method for reconstructing explicit, parameterized surfaces from neural SDFs by iteratively contracting a parameterized sphere to match the target shape.
+Unlike Marching Cubes, our approach preserves continuity, differentiability, and surface parameterization, enabling downstream applications such as texture mapping, geometry processing, animation, and simulation.
