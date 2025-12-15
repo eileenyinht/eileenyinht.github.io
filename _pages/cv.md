@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+My CV can be downloaded [here](../files/cv_haotian.pdf).
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
@@ -61,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
